@@ -10,6 +10,7 @@
             <spring:url value="/resources/images/pets.png" htmlEscape="true" var="petsImage"/>
             <img class="img-responsive" alt="A cat and a dog" src="${petsImage}"/>
             <h2>AABE EITA NUA TA</h2>
+            <h2>AABE EITA with DOCKER TA</h2>
         </div>
     </div>
 </petclinic:layout>
